@@ -1,0 +1,7 @@
+Model,Training Time (s),Inference Time (s)
+TextBlob,0,0.6559
+VADER,0,0.6526
+SVM,55.864,1.979
+RandomForest,15.4531,0.1129
+DistilBERT,260.5057,5.2374
+LSTM,101.3122,1.1243
