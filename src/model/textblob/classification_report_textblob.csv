@@ -1,0 +1,4 @@
+,precision,recall,f1-score
+Negative,1.0,1.0,1.0
+Neutral,1.0,1.0,1.0
+Positive,1.0,1.0,1.0

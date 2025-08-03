@@ -1,1 +1,3 @@
 src/pretrained_model/glove.6B.100d.txt
+src/model/DistilBERT/results/
+src/model/DistilBERT/saved_model_distilbert/
