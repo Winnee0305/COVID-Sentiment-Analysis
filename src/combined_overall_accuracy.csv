@@ -3,5 +3,5 @@ distilbert,0.8978328173374613
 lstm,0.7683178782463074
 randomForest,0.7074
 svm,0.7559
-textblob,1.0
+textblob,0.7389
 vader,0.6047
